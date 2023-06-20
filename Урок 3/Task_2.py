@@ -1,3 +1,7 @@
+# Попытка номер 2 реализация не верная, без класса LinkedList
+
+
+
 # Узел связанного списка
 class Node:
     def __init__(self, data=None, next=None):

@@ -1,3 +1,7 @@
+# Попытка номер один - не получилось
+
+
+
 class Node:
     def __init__(self, data):
         self.data = data
